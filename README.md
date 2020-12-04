@@ -1,4 +1,6 @@
-# y10u1
+# y10u1 (Year 10, Unit 1 - Coding Class)
+### A simple application that processes verbs in Latin
+####
+##### This program provides you with the principal parts, definitions, tense, voice, mood, person, and number for a Latin verb you enter.
 
-Final code for Unit 1 of Y10 coding.
 Requirements: Tkinter, requests, re, open_words
